@@ -1,0 +1,5 @@
+//TODO -- Create scrolling for the UI buttons./ 
+//TODO -- Disable unused buttons for individual dialog uses./
+//TODO -- Only make the buttons return integers depending on what button is press (e.g. button 0 will only return 0 when clicked).
+//TODO -- Build up a dialog tree in code
+	//TODO -- Convert this to a XML file or JSON file.
